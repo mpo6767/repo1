@@ -1,3 +1,3 @@
-# demo    
+# Demo    
 
-JUst a demo
+Just a demo
